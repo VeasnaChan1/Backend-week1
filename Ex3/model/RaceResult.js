@@ -10,11 +10,6 @@ export class RaceResult{
     _sportType;
     _duration;
 
-
-//     Following the  Duration class, define the - 
-// Class attributes, with proper JS Doc comments - - 
-// Class constructor, with proper JS Doc comments 
-// The class RaceResult shall have a list of race results (array)
     /**
      * Creates an instance of RaceResult.
      * @param {string} participantID
